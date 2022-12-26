@@ -1,4 +1,4 @@
-# initialized window
+ # initialized window
 root = Tk()
 root.geometry('280x300')
 root.resizable(0, 0)
